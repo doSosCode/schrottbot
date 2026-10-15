@@ -5,7 +5,7 @@ permalink: /impressum/
 ---
 
 <h2 id="m46">Diensteanbieter</h2>
-<p>damago GmbH<br>Bernburger Str. 30-31<br>10963 Berlin</p>
+<p>damago GmbH<br>Yorckstraße 22-24<br>14467 Potsdam</p>
 
 <h2 id="m56">Kontaktmöglichkeiten</h2><p>E-Mail-Adresse: <a href="mailto:info@damago.de">info@damago.de</a></p>
 <p>Telefon: 030 2849376-0</p>
