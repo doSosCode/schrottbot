@@ -1,0 +1,33 @@
+title: Woche 1
+date: 2026-10-02 14:00:00 +0200
+toc: false         # Inhaltsverzeichnis ausschalten
+comments: false    # Kommentare für diesen Post deaktivieren
+image:
+  path: /assets/img/posts/Logo_drafts.png
+  alt: Entwürfe für Projekt-Logo
+
+
+⭐ Recap - Woche 1 unseres Projekts
+ 
+Die erste Woche stand ganz im Zeichen des Projektstarts und der Organisation. Vieles war neu, einiges chaotisch, aber am Ende haben wir als Team einen richtig guten Grundstein gelegt.
+ 
+👥 Teameinteilung
+Zu Beginn wurden alle TeilnehmerInnen der DAMAGO (FachinformatikerInnen für Systemingegration sowie Anwendungsentwicklung) per Zufallsprinzip in Projektteams eingeteilt. Dadurch entstanden bunt gemischte Gruppen mit unterschiedlichen Stärken und Perspektiven.
+ 
+💻 Umzug in den Projektraum
+Anschließend hieß es: Rechner abbauen, alles einpacken und gemeinsam in den neuen Projektraum umziehen. Dort haben wir unsere Arbeitsplätze eingerichtet und die technische Basis für die kommenden Wochen geschaffen.
+ 
+📅 Einrichtung der Teams‑Meetings
+Damit die Kommunikation reibungslos funktioniert, wurden direkt die Teams‑Meetings für unsere neue Gruppenkonstellation angelegt. So konnten wir uns schnell abstimmen, Aufgaben verteilen und die Projektstruktur festlegen.
+ 
+📝 Namensfindung
+Ein Highlight der Woche war die kreative Phase: Unser Team brauchte einen Namen. Nach mehreren Vorschlägen, Diskussionen und Abstimmungen stand schließlich der finale Name fest: Schrottbot Engineering
+ 
+🎨 Logo‑Design
+Passend zum Namen wurde ein eigenes Logo entworfen. Das Design sollte unser Team widerspiegeln und gleichzeitig professionell wirken. Unser Ergebnis kann sich sehen lassen: (HIER LOGO EINFÜGEN)
+ 
+☕ Team‑Merch: Tassen & Leinwand
+Zum Abschluss der Woche gab es noch ein kleines Extra:
+Jedes Teammitglied bekam eine Tasse mit dem Projektlogo und dem eigenen Namen. Außerdem wurde eine Leinwand mit dem Teamlogo erstellt, ein schöner Startschuss für unser gemeinsames Projekt.
+
+![Entwürfe für Projekt-Logo](/assets/img/posts/Logo_drafts.png){: w="700" h="400" }
