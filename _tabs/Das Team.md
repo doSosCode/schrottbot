@@ -12,14 +12,18 @@ order: 4
 
 <details>
 <summary>Mariusz</summary>
-"There are no problems, only solutions"</details>
+
+>> "There are no problems, only solutions"
+</details>
 <details>
 <summary>Sascha</summary>
 Architektur und Hardwarebedarf
 </details>
 <details>
 <summary>Christopher</summary>
-„Meine Aufgabe im Team ist es sicherzustellen, dass wir bei Fehlern nicht wieder ganz von vorne anfangen müssen.“
+
+>> „Meine Aufgabe im Team ist es sicherzustellen, dass wir bei Fehlern nicht wieder ganz von vorne anfangen müssen.“
+
 </details>
 <details>
 <summary>Teresa</summary>
@@ -31,7 +35,9 @@ Netzwerk und Sicherheit
 </details>
 <details>
 <summary>Eric</summary>
-„Ich bin für unsere Cloudlösungen im Bereich Dateimanagement zuständig.“
+
+>> „Ich bin für unsere Cloudlösungen im Bereich Dateimanagement zuständig.“
+
 </details>
 <details>
 <summary>Krassimire</summary>
@@ -46,20 +52,31 @@ Entwicklungs- und Testumgebung
 
 <details>
 <summary>Julia</summary>
-„Ich kümmere mich darum, dass unser Schrotti versteht, was wir ihm mit unseren Händen sagen.“</details>
+
+>> „Ich kümmere mich darum, dass unser Schrotti versteht, was wir ihm mit unseren Händen sagen.“
+
+</details>
 <details>
 <summary>Kristina</summary>
-"Ich bin bei der Roverentwicklung und kümmere mich hauptsächlich darum, dass der Rover Farben erkennt."</details>
+
+>> "Ich bin bei der Roverentwicklung und kümmere mich hauptsächlich darum, dass der Rover Farben erkennt."
+
+</details>
 <details>
 <summary>Theresa</summary>
-"Ich bin dafür zuständig, dass unser Rover unsere handschriftlichen Zeichen erkennen kann."</details>
+
+>> "Ich bin dafür zuständig, dass unser Rover unsere handschriftlichen Zeichen erkennen kann."
+
+</details>
 <details>
 <summary>Daniek</summary>
-Webauftritt und Social Media
+Webauftritt
 </details>
 <details>
 <summary>Dominik</summary>
-Webauftritt und Social Media
+
+>> "Ich sorge dafür, dass man uns online findet, und die Welt über unsere Schrottis up to date bleibt.
+
 </details>
 <details>
 <summary>Jan</summary>
