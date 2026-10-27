@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Schrottbot Engineering # the main title
 
-tagline: Rover Projekt mit KI-gestützter\n Farb- und Gestenerkennung # it will display as the subtitle
+tagline: Rover Projekt mit KI-gestützter Farb- und Gestenerkennung # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A five-week project developing a Raspberry Pi rover controlled by AI-based hand gesture recognition.
