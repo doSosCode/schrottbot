@@ -1,0 +1,19 @@
+.seite {
+  display: grid;
+  grid-template-columns: 16rem 1fr;
+  gap: 2rem;
+}
+
+.sidebar {
+  align-self: start;
+  position: sticky;
+  top: 1rem;
+}
+
+.sidebar .aktiv a { font-weight: bold; }
+
+/* Schmale Bildschirme: Sidebar wandert über den Inhalt */
+@media (max-width: 700px) {
+  .seite { grid-template-columns: 1fr; }
+  .sidebar { position: static; }
+}
