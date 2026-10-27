@@ -31,7 +31,7 @@ Netzwerk und Sicherheit
 </details>
 <details>
 <summary>Eric</summary>
-Cloudlösung für Dateimanagement
+„Ich bin für unsere Cloudlösungen im Bereich Dateimanagement zuständig.“
 </details>
 <details>
 <summary>Krassimire</summary>
